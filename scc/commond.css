@@ -1,0 +1,25 @@
+/* header-beckground-color #FFFFFF
+titel text color #212121
+text color #757575
+features beckgraund color #F5F5F5
+team beckground color #F5F4FA
+hero-footer beckground color #2F303A
+accent color #2196F3
+hero footer text color #FFFFFF
+logo color #000000   #2196F3
+addres text color rgba(255, 255, 255, 0.6)
+*/
+
+:root{
+--logo-start-color: #2196F3;
+--logo-end-color: #000000;
+--titel-text-color:#212121;
+--text-color: #757575;
+--accent-color: #2196F3;
+--header-beckground-color: #FFFFFF;
+--hero-footer-beckground-color: #2F303A;
+--hero-footer-text-color: #FFFFFF;
+--features-beckgraund-color: #F5F5F5;
+--team-beckground-color: #F5F4FA;
+--addres-text-color: rgba(255, 255, 255, 0.6);
+} 
